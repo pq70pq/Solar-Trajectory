@@ -10,7 +10,7 @@ Two scripts for solar analysis (sunTrajectoryAnalysis) are present in this repos
 - *.MLX uses the MATLAB Live Script Markup Approach
 - *.M is the traditional Text-based Approach
 
-## How to Use
+## Getting Started
 
 To run the analysis:
 1) Open the "sunTrajectoryAnalysis" script
