@@ -1,6 +1,8 @@
 # Analyzing the Sun's Path over the Year
 
-This codebase generates the trajectory of the sun over the course of the year at a given latitude. This can be used to understand potential irradiance at a given site, or study solar phenomena, such as the solar analemma.
+This codebase generates the trajectory of the sun over the course of the year at a given latitude. This can be used to understand potential irradiance at a given site, or study solar phenomena, such as the solar analemma. 
+
+[![View Analyzing the Sun's Path on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/55510-analyzing-the-sun-s-path)
 
 ![](analemmaAnimation.gif)
 
